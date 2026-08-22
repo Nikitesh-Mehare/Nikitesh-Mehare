@@ -1,4 +1,4 @@
-## 👨‍💻 About Me<br><br>Hi, I'm *Nikitesh Mehare**, a **Computer Science and Engineering student** at **Sipna College of Engineering & Technology, Amravati**, and an **Aspiring Full Stack Java Developer**.<br><br>💻 I am passionate about **coding, software development, and problem-solving**. My technical interests include **Java, JavaScript, Python, SQL, React.js, Hibernate, Springboot, and Data Structures & Algorithms*.
+## 👨‍💻 About Me<br><br>Hi, I'm **Nikitesh Mehare**, a **Computer Science and Engineering student** at **Sipna College of Engineering & Technology, Amravati**, and an **Aspiring Full Stack Java Developer**.<br><br>💻 I am passionate about **coding, software development, and problem-solving**. My technical interests include **Java, JavaScript, Python, SQL, React.js, Hibernate, Springboot, and Data Structures & Algorithms**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikitesh-mehare-4b0780321) 
@@ -14,10 +14,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nikitesh-Mehare&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikitesh-Mehare&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/Nikitesh-Mehare/Hospital-Management-System)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nikitesh-Mehare&icon=4&color=0)](https://visitcount.itsvg.in)
