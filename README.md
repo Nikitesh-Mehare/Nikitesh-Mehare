@@ -1,4 +1,4 @@
-## 👨‍💻 About Me<br><br>Hi, I'm **Nikitesh Mehare**, a **Computer Science and Engineering student** at **Sipna College of Engineering & Technology, Amravati**, and an **Aspiring Full Stack Java Developer**.<br><br>💻 I am passionate about **coding, software development, and problem-solving**. My technical interests include **Java, JavaScript, Python, SQL, React.js, Hibernate, Springboot, and Data Structures & Algorithms**.
+## 👨‍💻 About Me<br><br>Hi, I'm *Nikitesh Mehare**, a **Computer Science and Engineering student** at **Sipna College of Engineering & Technology, Amravati**, and an **Aspiring Full Stack Java Developer**.<br><br>💻 I am passionate about **coding, software development, and problem-solving**. My technical interests include **Java, JavaScript, Python, SQL, React.js, Hibernate, Springboot, and Data Structures & Algorithms*.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikitesh-mehare-4b0780321) 
